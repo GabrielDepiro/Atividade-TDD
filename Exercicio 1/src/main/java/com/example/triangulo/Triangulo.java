@@ -1,4 +1,4 @@
-package com.example;
+package com.example.triangulo;
 
 public class Triangulo {
     private int lado1;

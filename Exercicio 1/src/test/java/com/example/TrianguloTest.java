@@ -4,6 +4,8 @@ package com.example;
 import static org.junit.jupiter.api.Assertions.*; // Importa métodos de asserção do JUnit
 import org.junit.jupiter.api.Test; // Importa a anotação @Test para definir métodos de teste
 
+import com.example.triangulo.Triangulo;
+
 public class TrianguloTest {
     /* Na classe TrianguloTest, cut é uma instância da classe Triangulo que você está testando.
      O termo "cut" geralmente é uma abreviação de "class under test" (classe sob teste),
